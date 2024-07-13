@@ -1,0 +1,21 @@
+.todoList-div {
+  background: rgb(233, 84, 47);
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+}
+
+.todo-table tbody tr td {
+  padding: 3px 5px;
+}
+
+.button-cell {
+  width: 10%;
+}
+
+.button-cell button {
+  background: rgb(152, 2, 2);
+}

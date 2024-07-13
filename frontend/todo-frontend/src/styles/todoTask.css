@@ -1,0 +1,19 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 10px;
+}
+
+form input {
+  height: 100px;
+  width: 300px;
+  border: 2px solid rgb(250, 94, 3);
+  border-radius: 10px;
+  text-align: center;
+  background: #04ac63;
+  color: rgb(254, 254, 254);
+  font-size: 20px;
+}
